@@ -1,0 +1,49 @@
+Executive Summary
+
+    Summary of Request:
+
+The Advertising Department needs to replace the company's legacy ad reporting system, adReports.  Replacing the old reporting system while continuing to deliver critical revenue reporting will be a challenging endeavor, but the Ad Reporting team has determined that if we do not replace the old system we will be in danger of not being able to provide accurate billing data to the Accounting Department.  If this happens we will be unable to bill our customers accurately which will put our company in great financial danger.
+
+    Background:
+
+The adReports system was originally built over 15 years ago and as the business has had to keep up the ever-changing advertising world, many ad hoc changes have been made to the system over the years.  The amount of bugs and technical debt the current system is not causing many problems from multiple downtimes per month, to inaccuracies in revenue reporting.
+
+Replacing adReports with a completely redesigned system will allow us to engineer a system that will be much easier to maintain in the future.  Having an easier to maintain system will allow the Systems Engineering team expand research and development into broader areas for the organization.
+
+
+    Projected Benefits:
+
+    1.	Decreased time tracking down and fixing bugs, which will lead to greater moral and less money wasted.
+    2.	Increased Systems Engineering time to dedicate to proactively working with the Ad Reporting team to design new features in accordance with current engineering best practices.
+
+    Potential Project Risks:
+
+    1.	Diverting key personnel in the Ad Reporting and Systems Engineering teams away from dealing current issues with the current system could cause a disruption with current service level agreements or delayed customer billing.
+    2.	Not delivering the new system in time would cost the company $2,000 a day in development costs.
+    3.  Project failure could put the company in financial jeopardy if we were to loose trust with our largest advertising customers.
+
+Measurable Organizational Value (MOV):
+
+Reduce maintenance time by a minimum of 80 percent w new system as a minimum viable product. 
+Deploy a minimum viable product by January 1st, 2022, thereby eliminating 80% of maintenance time on the old system, followed by a full-featured release of the completed system by March 31, 2022.
+
+Alternatives Considered
+
+    Alternative features were considered in the development of this proposal and are discussed below. The option to do nothing is not considered to be viable because of the competitive segment Track It All operates in and the risk of loss of market share.
+
+    Other Consideration:
+    Create In House vs. Off the Shelf development
+
+    Contract development hire vs in house resources
+
+Option 1: Build the replacement system in-house
+Track It All can develop and implement a feature to provide personalized credit card recommendations based on user spending history. Benefits of this alternative include implementing a highly requested feature and a new revenue opportunity from credit card referral fees, while the downsides are significant engineering requirements and potential user privacy concerns.
+
+Option 2: Hire a consulting company to build the replacement
+Track It All can develop and implement a feature to provide additional reminder options for upcoming bills, including text messages and emails. The key benefit of this alternative is the low engineering impact, while the main downside is low feature excitement.
+
+
+Recommended Solution
+    In user focus groups, personalized credit card recommendations based on spending habits has been one of the most requested features. This feature is becoming common in competing services and would provide a new revenue stream for Track It All. Since Track It All is a free to consumer app, revenue comes primarily from advertising. Providing personalized credit card recommendations not only adds value for users, it also provides referral fees from credit card issuers.
+
+    Based on the business analysis, projected benefits, and relatively low risk, it is recommended that Track It All implement a credit card recommendation engine. The expected improvement in user satisfaction scores and new revenue stream make this a feature with clearly measurable organizational value. This feature can be implemented by the Track It All Engineering Team with an estimated project timeline of six (6) months.
